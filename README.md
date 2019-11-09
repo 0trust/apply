@@ -10,9 +10,9 @@
 
 Which position do you want to apply for?
 
-- [Junior Python Developer]() for Test Automation & Robot Framework (Software Quality Engineer) - remote
+- [Junior Python Developer](/jobs/Junior_Python_Developer.md) for Test Automation & Robot Framework (Software Quality Engineer) - remote
 
 
 
-- [Python Developer Internship]() - remote (soon)
-- [Test Automation Internship]() (Python / Robot Framework) - remote (soon)
+- [Python Developer Internship]() - remote (coming soon)
+- [Test Automation Internship]() (Python / Robot Framework) - remote (coming soon)

@@ -273,7 +273,7 @@ func main() {
 
 	glass := NewGlass()
 
-	txt := "Press 'ESC' to exit or go to https://github.com/0trust/apply to change your life!"
+	txt := "Press 'ESC' to exit or go to https://github.com/0trust/apply to find your fortune!"
 
 
 
